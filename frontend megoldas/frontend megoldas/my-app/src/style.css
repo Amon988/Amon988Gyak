@@ -1,0 +1,82 @@
+body {
+    background-color: aliceblue;
+    /*13. feladat */
+    max-width: 1320px;
+    /*14. feladat */
+    margin: 0 auto;
+    /*15. feladat */
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    background-color: white;
+    padding: 0 20px;
+}
+
+#fotok img {
+    width:100%;
+    height: auto;
+}
+
+section{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.fenykep {
+    float: right;
+    margin: 0 0 20px 20px;
+    padding: 10px;
+    border: 1px solid lightskyblue;
+}
+
+hr {
+    border: 3px solid lightskyblue;
+    max-width: 50%;
+    margin: 20px auto;
+}
+
+.fenykep img {
+    width: 350px;
+}
+
+#erdekessegek ul {
+    list-style-type: '- ';
+}
+
+#dijai {
+    text-align: right;
+    direction: rtl;
+}
+
+#dijai ul {
+    list-style-type: '- ';
+}
+
+#erdekessegek h2 {
+    margin-left: 20px;
+}
+
+#dijai h2 {
+    margin-right: 30px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+/*16. feladat */
+.kepalairas {
+    text-align: center;
+    font-style: italic;
+}
+
+/*17. feladat */
+.navbar {
+    background-color: #e3f2fd;
+}
+
+/*18. feladat */
+p {
+    text-align: justify;
+}
