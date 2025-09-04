@@ -1,0 +1,2 @@
+https://sourceforge.net/projects/xampp/
+https://nodejs.org/en/download
